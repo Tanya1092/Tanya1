@@ -1,0 +1,11 @@
+name = "harry"
+print(len(name))
+print(name.endswith("rry"))
+print(name.startswith("ha"))
+print(name.capitalize())
+print(name.lower())
+print(name.upper())
+print(name.title())
+print(name.find("r"))
+print(name.replace("harry" , "python"))
+print(name.find("r"))
